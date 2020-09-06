@@ -40,7 +40,7 @@ function checkAnswer(currentLevel){
   else{
     playSound("wrong");
 
-    $(".instructions").html("<h1 style ='font-size : 3rem; '>RUCHI <3 FOREVER!!</h1>");
+    $(".instructions").html("<h1 style ='font-size : 3rem; '>Game Over!!</h1>");
 
     setTimeout(function(){
      $(".instructions").html(" <h2 class='level-title'>Press Any Key to Start</h2> <hr><h3>Instruction.</h3>  <p>The Game is simple , Find out the pattern as the bunny hops out and tell us which holes did he came out .<br>Suppose in level 1 he came out of hole 1 , you will click hole1.<br>In the next round he came out of hole 3 , you will click hole 1 -> hole 3.</p>");
