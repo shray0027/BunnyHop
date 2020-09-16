@@ -16,5 +16,5 @@ In this user have to click the pattern in which bunny is moving successively in 
 <td><img src= "images/bunnyhop-preview-2.png" alt ="images/bunnyhop-preview-2"></td>
 </tr>
 <tr>game over</tr>
-<tr>img src= "images/bunnyhop-preview-3.png" alt ="images/bunnyhop-preview-3"></tr>
+<tr><img src= "images/bunnyhop-preview-3.png" alt ="images/bunnyhop-preview-3"></tr>
 </table>
