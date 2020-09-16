@@ -4,7 +4,7 @@ body{
   background-color :#fadcac;
 }
 #title {
-  margin :4%;
+  margin :3%;
   font-family: 'Press Start 2P', cursive;
   color : #87431d;
   text-shadow: 0  3px 4px #290001;
@@ -27,7 +27,7 @@ p{
   background-color: #87431d;
   margin : auto;
   width : 80%;
-  padding : 10px;
+  padding : 7px;
   border-radius: 20px;
   display: block;
   font-family: 'Press Start 2P', cursive;
@@ -39,7 +39,7 @@ p{
 .container{
   display :block;
   width: 80%;
-  margin :  30px auto;
+  margin :  40px auto;
 
   }
   .btn{
@@ -64,4 +64,15 @@ top : -70px;
 .game-over {
   background-color: red;
   opacity: 0.8;
+}
+.start{
+  width : 100px;
+  height : 40px;
+  background-color: #87431d;
+  color : white;
+  font-family:  'Press Start 2P', cursive;
+  font-size: 1rem;
+  border : 2px solid #290001;
+  border-radius: 20px;
+
 }
