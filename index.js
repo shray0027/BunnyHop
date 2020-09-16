@@ -16,6 +16,15 @@ $(document).keypress(function(){
     }
 });
 
+$(".start").click(function(){
+  if(!started){
+    $(".instructions").html("<h2 class= 'level-title'>LEVEL - "+level+"</h2>");
+    $(".btn").html("");
+    nextSequence();
+    started=true;
+    }
+});
+
 $(".btn").click(function() {
 
   var userChosenButton = $(this).attr("id");
