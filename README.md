@@ -1,4 +1,9 @@
-# <a href= "https://shray0027.github.io/BunnyHop/">BUNNY HOP</a>
+# [BUNNY HOP](https://shray0027.github.io/BunnyHop/)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 In this user have to click the pattern in which bunny is moving successively in each round
 ## FEATURES
 * Game over Animation
